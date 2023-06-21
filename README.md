@@ -1,0 +1,5 @@
+# datasets
+
+PromptCBLUE_datasets.zip是PromptCBLUE比赛的数据集
+
+huggingface_chatglm是chatglm的config和tokenization文件
